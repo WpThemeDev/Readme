@@ -16,7 +16,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GNU License][gnu-shield]][gnu-url]
+[![GNU License][license-shield]][license-url]
 
 ![Xidipity GitHub Readme Screenshot](images/screenshot.png)
 
@@ -177,14 +177,12 @@ GNU General Public License for more details.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/wpthemedev/readme.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/wpthemedev/readme.svg?style=for-the-badge&color=38761d
 [forks-url]: https://github.com/wpthemedev/xidipity/network/members
-[stars-shield]: https://img.shields.io/github/stars/wpthemedev/readme.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/wpthemedev/readme.svg?style=for-the-badge&color=741b47
 [stars-url]: https://github.com/wpthemedev/xidipity/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wpthemedev/readme.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/wpthemedev/readme.svg?style=for-the-badge&color=cc0000
 [issues-url]: https://github.com/wpthemedev/xidipity/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[gnu-shield]: https://img.shields.io/static/v1?label=GNU-GPL&message=3&color=orange&style=for-the-badge
-[gnu-url]: https://opensource.org/licenses/GPL-3.0
+[license-shield]: https://img.shields.io/static/v1?label=GNU-GPL&message=3&color=007fa3&style=for-the-badge
+[license-url]: https://opensource.org/licenses/GPL-3.0
 [product-screenshot]: screenshot.png
