@@ -16,7 +16,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GNU License][gnu-shield]][gnu-url]
 
 ![Xidipity GitHub Readme Screenshot](images/screenshot.png)
 
@@ -185,6 +185,8 @@ GNU General Public License for more details.
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[gnu-shield]: https://img.shields.io/static/v1?label=GNU-GPL&message=3&color=blue&style=for-the-badge
+
+
+[gnu-url]: https://opensource.org/licenses/GPL-3.0
 [product-screenshot]: screenshot.png
