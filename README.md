@@ -178,15 +178,13 @@ GNU General Public License for more details.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/wpthemedev/readme.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/wpthemedev/xidipity/network/members
 [stars-shield]: https://img.shields.io/github/stars/wpthemedev/readme.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/wpthemedev/xidipity/stargazers
 [issues-shield]: https://img.shields.io/github/issues/wpthemedev/readme.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/wpthemedev/xidipity/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [gnu-shield]: https://img.shields.io/static/v1?label=GNU-GPL&message=3&color=orange&style=for-the-badge
-
-
 [gnu-url]: https://opensource.org/licenses/GPL-3.0
 [product-screenshot]: screenshot.png
