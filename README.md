@@ -185,7 +185,7 @@ GNU General Public License for more details.
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[gnu-shield]: https://img.shields.io/static/v1?label=GNU-GPL&message=3&color=blue&style=for-the-badge
+[gnu-shield]: https://img.shields.io/static/v1?label=GNU-GPL&message=3&color=orange&style=for-the-badge
 
 
 [gnu-url]: https://opensource.org/licenses/GPL-3.0
