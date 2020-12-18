@@ -67,11 +67,11 @@ Xidipity uses an enhanced version of the classic editor. The benefit of this dec
 **Options include but are not limited to:**
 
 - Fonts
-  - Roboto (sans)
-  - Roboto Mono (mono)
-  - Roboto Slab (serif)
-  - Kalam (cursive)
-  - Kaushan Script (fantasy)
+  - [Roboto](https://fonts.google.com/specimen/Roboto) (sans)
+  - [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?query=Roboto+Slab) (serif)
+  - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto+mono) (mono)
+  - [Kalam](https://fonts.google.com/specimen/Kalam?query=kalam) (cursive)
+  - [Kaushan Script](https://fonts.google.com/specimen/Kaushan+Script?query=Kaushan+Script) (fantasy)
 - Text Style
   - 8 styles
 - Font size
